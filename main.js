@@ -23,8 +23,10 @@ function setReplace (frase, nome, novo_nome) {
 document.write(setReplace("Vai Japão", "Japão", "Brasil"));
 */
 
-function validaIdade (idade, )
+//function validaIdade (idade, )
 
+console.log('casa');
+console.log('carro');
 
 
 })();
